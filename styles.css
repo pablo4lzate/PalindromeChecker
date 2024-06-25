@@ -180,4 +180,9 @@ html {
     #text-input, #check-btn{
       width: 250px;
     }
+
+    #result{
+      padding: 1.5em 0 1.5em 0;
+    }
+
   }
